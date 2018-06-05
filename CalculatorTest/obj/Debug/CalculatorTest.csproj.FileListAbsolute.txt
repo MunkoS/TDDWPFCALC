@@ -1,0 +1,11 @@
+E:\eds\Calculator\CalculatorTest\bin\Debug\CalculatorTest.dll
+E:\eds\Calculator\CalculatorTest\bin\Debug\CalculatorTest.pdb
+E:\eds\Calculator\CalculatorTest\bin\Debug\Calculator.exe
+E:\eds\Calculator\CalculatorTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\eds\Calculator\CalculatorTest\bin\Debug\Calculator.pdb
+E:\eds\Calculator\CalculatorTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\eds\Calculator\CalculatorTest\obj\Debug\CalculatorTest.csprojResolveAssemblyReference.cache
+E:\eds\Calculator\CalculatorTest\obj\Debug\CalculatorTest.dll
+E:\eds\Calculator\CalculatorTest\obj\Debug\CalculatorTest.pdb
+E:\eds\Calculator\CalculatorTest\bin\Debug\Prism.dll
+E:\eds\Calculator\CalculatorTest\bin\Debug\Prism.xml
